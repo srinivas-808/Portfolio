@@ -11,7 +11,7 @@ export type Project = {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Smart Energy-EƯicient Road Studs Using IoT",
+    title: "Smart Energy-Efficient Road Studs Using IoT",
     description: "A device that Enhances Road Safety along with power conservation using IOT.",
     imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0k4Q3M-d4F8vRP7lDwCYMPOA_QWA8_gUPRwE6djFwMfFficYQnao5namuuNo5nvSa9A&usqp=CAU",
     tags: ["IOT", "Python", "C++", "Sensors"],
@@ -24,8 +24,8 @@ export const projects: Project[] = [
     description: "render any documents in own custom fonts in a step.",
     imageUrl: "https://i.ytimg.com/vi/Io5HuqtAcWs/maxresdefault.jpg",
     tags: ["python", "Flask", "OpenCV", "JSON"],
-    demoUrl: "https://demo.com/taskapp",
-    githubUrl: "https://github.com/username/taskapp"
+    demoUrl: "https://writeit-25w6.onrender.com/",
+    githubUrl: "https://github.com/srinivas-808/WriteIt"
   }/*,
   {
     id: 3,

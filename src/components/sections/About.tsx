@@ -47,10 +47,10 @@ const About: React.FC<AboutProps> = ({ isDarkMode }) => {
               
             </p>
             <div className="flex items-center gap-6">
-              <div className="text-center">
+              {/* <div className="text-center">
                 <div className="text-3xl font-bold text-blue-600 mb-1">0</div>
                 <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>Years of Experience</div>
-              </div>
+              </div> */}
               <div className="text-center">
                 <div className="text-3xl font-bold text-blue-600 mb-1">2</div>
                 <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-gray-600'}`}>Projects Completed</div>
