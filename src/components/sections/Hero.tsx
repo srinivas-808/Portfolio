@@ -64,7 +64,7 @@ const Hero: React.FC<HeroProps> = ({ isDarkMode }) => {
         <div className="text-center max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
             <span className={isDarkMode ? 'text-white' : 'text-gray-900'}>
-              Hello, I'm a <span className="text-blue-600">Srinivas</span>
+              Hello, I'm <span className="text-blue-600">Srinivas</span>
             </span>
           </h1>
           <p className={`text-lg md:text-xl max-w-2xl mx-auto mb-4 leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>
