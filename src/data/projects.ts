@@ -15,8 +15,8 @@ export const projects: Project[] = [
     description: "A device that Enhances Road Safety along with power conservation using IOT.",
     imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0k4Q3M-d4F8vRP7lDwCYMPOA_QWA8_gUPRwE6djFwMfFficYQnao5namuuNo5nvSa9A&usqp=CAU",
     tags: ["IOT", "Python", "C++", "Sensors"],
-    demoUrl: "https://demo.com/ecommerce",
-    githubUrl: "https://github.com/username/ecommerce"
+    demoUrl: "",
+    githubUrl: ""
   } ,
   {
     id: 2,
@@ -26,16 +26,16 @@ export const projects: Project[] = [
     tags: ["python", "Flask", "OpenCV", "JSON"],
     demoUrl: "https://writeit-25w6.onrender.com/",
     githubUrl: "https://github.com/srinivas-808/WriteIt"
-  }/*,
+  },
   {
     id: 3,
-    title: "Weather Dashboard",
-    description: "An elegant weather dashboard displaying current conditions and forecasts using data from multiple weather APIs with beautiful visualizations.",
-    imageUrl: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-    tags: ["JavaScript", "Chart.js", "API Integration", "CSS"],
-    demoUrl: "https://demo.com/weather",
-    githubUrl: "https://github.com/username/weather"
-  },
+    title: "AI-Coding-Agent",
+    description: "Auto debug the ai generated code until perfection of code as required by user.",
+    imageUrl: "https://lh3.googleusercontent.com/rd-gg-dl/AJfQ9KS4xoomCZAM7z3-f9PWz-IHKmMX0p2mZZHJPd7Gfphq54N_cJiG4d1scVpsD0I9dBJE8JbCVhAQjSGSnWSfEXwQXZFUadrjRzXY1ZqPvF5a3MrRPOOSiglj3Vb6_4j1ng4AiXoMtsDpkIENeql5sN18AeD_QIwgRJDPlYFWAT9VBYI1kK8m4grEIjvsak5S5eenFzr-CmaTl6ZVuIzDH5n_2zCXKcLyYEqTORnqKacgptbpxchjNPC0iXpvgdlGDLcwEn7ZTDnOlxYgVYpMdt-C2sLuOSvd6FeFm_-3_0HC2naJfxnRNw40VZ7EpbdhXxYM9Jfg0MK3I4JZE7xN55Sy5Wc594MKdzK2phRdu_PjE_8X6Ku0-oezHOe5SLxUzPSOhAdlHJVFAgeN974TZhBC5f1ctXgwNRW8KIasQ1dNjZGd6Idhl8SyghBktypSNfhAtpZiA4JKavpIgEMsKPY0djzweZ8ZMS3K5oUnCjgFeZEnWHQTUfvzp63T52MBHgZaQkzAp7Ad74twKPUfU_Ef_s_qpBxMBX9drCDUZCNGD8YHcxxXAh1m74-8Y9rWmwUX2Ls-STMP0jf7RFTxoc7ynQSL4oWHV5G4UOoEh3n2RrOYcZSPZKJI6-QkcuuALbl3mIdl5sE_BV1DZXECNZlV3MseETQJPnSpaKO-P19DnOIVEtUi2935W5JUL6MGqfwXpj87wTOCgtkaQ_ZsuIvryrl9mJQygDenjGGg_9ld25DSDra6ra5To-1P3_HIQ9Eu-AWMv00wGvsb5teI37Y4jshUi5UdAbSdljXu8IAH5z8fW5tXRmMCVwG0UbX1MTe6lmTy4PhcTxzm_ITqWPNKmPKQr-skWvvpnQBx3cbNb9afAvAKzSuYRVgqZe36HDWW4KDgS1ZBTgDDM8CT1rTQKQjO-J7RbG2X9pBie3lGuaXR0rnJg0UPysnT3jMSWRWLx-STkqLbT90qPXBX8qtoJp0ZBB3vuOLDwyl2_GYy4DjsRSsBp6eCtaBEgBARJe1stFzNjiLDWuhpq0DpDxhkpQdNv2p5IaX502IzYf-q9pZS1ieKDpO8xHPSDoDAtQP5tKeF9Fto906dLvQThXhgY7SVWMV9WvkuIdof6-6wAPw5ZiFLYe0OTInQRy_HpU2Se9r1qXGOMOskgPX30jpREhsK-Ud1=s1024-rj",
+    tags: ["Python", "Gemini AI", "API Integration", "Flask", "Langchain", "Docker"],
+    demoUrl: "",
+    githubUrl: ""
+  }/*,
   {
     id: 4,
     title: "Social Media Dashboard",
